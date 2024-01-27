@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.image1 {
+  margin: 50px;
+  padding: 50px;
+  display: grid;
+  position: relative;
+}
+
+.background {
+  width: 100%;
+  align-items: center;
+  text-align: center;
+}
+
+.image2 {
+  justify-content: center;
+}
+
+.image3 {
+  align-items: center;
+}
